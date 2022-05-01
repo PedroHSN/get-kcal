@@ -1,4 +1,4 @@
-<img src=".github/assets/images/logo.svg" align="center">
+
 
 # Getkcal
 
